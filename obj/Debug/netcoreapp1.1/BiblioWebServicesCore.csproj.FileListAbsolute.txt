@@ -1,0 +1,9 @@
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\bin\Debug\netcoreapp1.1\BiblioWebServicesCore.deps.json
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\bin\Debug\netcoreapp1.1\BiblioWebServicesCore.runtimeconfig.json
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\bin\Debug\netcoreapp1.1\BiblioWebServicesCore.runtimeconfig.dev.json
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\bin\Debug\netcoreapp1.1\BiblioWebServicesCore.dll
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\bin\Debug\netcoreapp1.1\BiblioWebServicesCore.pdb
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\obj\Debug\netcoreapp1.1\BiblioWebServicesCore.AssemblyInfo.cs
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\obj\Debug\netcoreapp1.1\BiblioWebServicesCore.dll
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\obj\Debug\netcoreapp1.1\BiblioWebServicesCore.pdb
+C:\Projects\webapp2\BiblioWebCore\src\BiblioWebServicesCore\obj\Debug\netcoreapp1.1\BiblioWebServicesCore.csprojResolveAssemblyReference.cache
